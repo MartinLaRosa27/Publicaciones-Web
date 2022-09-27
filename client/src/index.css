@@ -1,0 +1,63 @@
+/* NavBar */
+.navbar {
+  background-color: #0d6efd !important;
+  color: whitesmoke !important;
+  text-transform: uppercase;
+}
+
+.navbar .title {
+  font-weight: 700;
+}
+
+.navbar button {
+  background-color: #f5f5f5 !important;
+}
+
+.navbar .title:hover {
+  color: whitesmoke !important;
+}
+
+.navbar a {
+  color: whitesmoke !important;
+}
+
+.navbar a:hover {
+  color: #c9c9c9 !important;
+}
+
+/* Main */
+.main {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+/* MyPosts */
+.my-posts {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.my-posts-buttons {
+  margin-top: 20px;
+}
+
+.my-posts-buttons button {
+  margin-right: 20px;
+}
+
+.my-posts-buttons button:last-of-type {
+  margin-right: 0;
+}
+
+/* Footer */
+footer {
+  margin-top: 50px;
+  width: 100%;
+  background-color: #0d6efd !important;
+  color: whitesmoke;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
